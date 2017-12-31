@@ -1,0 +1,3 @@
+const testtt = require('./')
+
+testtt()
